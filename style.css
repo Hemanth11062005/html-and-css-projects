@@ -115,6 +115,6 @@ nav .menu{
 
 .center .btns button:hover{
     color: white;
-    background: black;
+    background: #101820;
     transition-duration: 750ms;
 }
